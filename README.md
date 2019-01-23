@@ -10,4 +10,5 @@ DXRuby
 DXRubyが入っていない人は、コマンドプロンプトで
 gem install dxruby
 と入力してインストールしてください
+
 YouTubeのRuby Campチャンネルが参考になります
